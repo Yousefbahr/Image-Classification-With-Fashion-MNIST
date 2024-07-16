@@ -9,7 +9,7 @@ Each image is assigned to one of the following labels: T-shirt/top, Trouser, Pul
 
 
 ___
-After training for three epochs, the model achieved an accuracy of 88%.
+The model achieved an accuracy of 88%.
 
 
 Top 3 predictions vs Target:
